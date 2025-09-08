@@ -1,4 +1,5 @@
 # Atividade Em Dupla - Projeto Colaborativo
 # Atualização 01
 print("Hello world")
+print(4)
 print("2")
